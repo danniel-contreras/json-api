@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "name": "TACOS AL PASTOR",
+      "price": 4.0,
+      "description": "Tortilla de maíz, piña, cebolla, cilantro, y dosis al gusto de limón y salsa picante.",
+      "photo": "https://www.comedera.com/wp-content/uploads/2017/06/1.jpg",
+      "promotion":0
+    },
+    {
+      "name": "ENCHILADAS",
+      "price": 5,
+      "description": "Las tortillas dobladas y rellenas, bañadas de alguna salsa",
+      "photo": "https://www.comedera.com/wp-content/uploads/2017/06/2.jpg",
+      "promotion":25
+    },
+    {
+      "name": "GUACAMOLE",
+      "price": 3.5,
+      "description": "Normalmente se come con totopos o nachos",
+      "photo": "https://www.comedera.com/wp-content/uploads/2016/07/como-hacer-guacamole-casero.jpg",
+      "promotion":50
+    },
+    {
+      "name": "TAMALES",
+      "price": 1.5,
+      "description": "Los tamales tienen variantes en varios países de América Latina.",
+      "photo": "https://www.comedera.com/wp-content/uploads/2017/06/4.jpg",
+      "promotion":0
+    },
+
+    {
+      "name": "CHILAQUILES",
+      "price": 4.5,
+      "description": "Normalmente se come con totopos o nachos",
+      "photo": "https://www.comedera.com/wp-content/uploads/2017/06/5.jpg",
+      "promotion":10
+    },
+    {
+      "name": "PASTEL TRES LECHES",
+      "price": 3.5,
+      "description": "La reina de los postres mexicanos es en realidad una especialidad extendida en Latinoamérica",
+      "photo": "https://www.comedera.com/wp-content/uploads/2018/12/pastel-tres-leches-receta-1.jpg",
+      "promotion":5
+    },
+    {
+      "name": "ESQUITES",
+      "price": 1.5,
+      "description": "granos de maíz en caldo con mayonesa, queso, limón, chile y sal.",
+      "photo": "https://www.comedera.com/wp-content/uploads/2017/06/7.jpg",
+      "promotion":30
+    },
+    {
+      "name": "CHILES RELLENOS",
+      "price": 3.5,
+      "description": "Pueden ser con queso, carne, pollo, atún, pescados, mariscos cubiertos en salsa, gratinados o capeados",
+      "photo": "https://www.comedera.com/wp-content/uploads/2017/06/8.jpg",
+      "promotion":15
+    }
+  ]
+}
